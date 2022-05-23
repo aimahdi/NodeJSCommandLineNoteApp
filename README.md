@@ -1,7 +1,7 @@
-# NodeJSCommandLineNoteApp
-This is a NodeJS command line note app created for learning purpose
+# Node JS Command Line Note App
+This is a NodeJS command line Note App created for learning purpose
 
-After cloning the repository, kindly run the command: 'npm install' so that necessary commands are installed on your project.
+After cloning the repository, kindly run the command: 'npm install' so that necessary libraries are installed on your project.
 
 ## Add a note
 To add a note, run: 'node app.js add --title="Your note title" --body="Your note body"' without single quotation from the root directory of your project
